@@ -263,26 +263,26 @@ float s3=0;
 
 
 int main() {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0); cout.tie(0);
+    // ios_base::sync_with_stdio(0);
+    // cin.tie(0); cout.tie(0);
        
-       cout<<"Truel"<<endl;
+    cout<<"Truel"<<endl;
     
     float p1,p2,p3; 
-     cout<<"Enter hitting probability percentage (out of 100): "<<endl;
-     cout<<"Player 1: 100 ( Assumed ) ";
-     p1= 100;
-      cout<<"Player 2: ";
-     cin>>p2;
+    cout<<"Enter hitting probability percentage (out of 100): \n Player 1: 100 ( Assumed ) \n Player 2: ";
+    
+    p1= 100;
+    cin>>p2;
 
-      cout<<"Player 3: ";
-     cin>>p3;
+    cout<<"Player 3: ";
+    cin>>p3;
 
     
 
 
 cout<< endl;
 solve(p1,p2,p3);
+
 
 
 
