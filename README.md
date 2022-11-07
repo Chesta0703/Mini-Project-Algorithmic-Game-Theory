@@ -3,3 +3,6 @@ Truel is one of the innovative forms of games and it is quite intriguing and Tru
 
 
 https://www.puzzle.dse.nl/teasers/the_truel_us.html
+
+
+https://pastebin.com/aqPmPiGT
