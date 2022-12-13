@@ -274,7 +274,7 @@ int main() {
     p1= 100;
     cin>>p2;
 
-    cout<<"Player 3: ";
+    cout<<"Enter hitting probability percentage (out of 100) for Player 3: ";
     cin>>p3;
 
     
